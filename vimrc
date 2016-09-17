@@ -25,7 +25,9 @@ Plug 'ctrlpvim/ctrlp.vim'
 
 Plug 'tpope/vim-vinegar'
 
-Plug 'valloric/youcompleteme'
+Plug 'Valloric/YouCompleteMe', { 'do': './install.py' }
+
+Plug 'tpope/vim-vinegar'
 call plug#end()
 
 
