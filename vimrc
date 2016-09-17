@@ -24,6 +24,8 @@ Plug 'bling/vim-airline'
 Plug 'ctrlpvim/ctrlp.vim'
 
 Plug 'tpope/vim-vinegar'
+
+Plug 'valloric/youcompleteme'
 call plug#end()
 
 
