@@ -23,6 +23,7 @@ Plug 'bling/vim-airline'
 
 Plug 'ctrlpvim/ctrlp.vim'
 
+Plug 'tpope/vim-vinegar'
 call plug#end()
 
 
